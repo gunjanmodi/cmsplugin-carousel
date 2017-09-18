@@ -14,7 +14,7 @@ setup(
     install_requires=[
         'django-cms>=2.4.3',
         'cmsplugin-filer>=0.9.5',
-        'django-orderedmodel>=0.1.5',
+        #    'django-orderedmodel>=0.1.5',
     ],
     dependency_links=[
         'git+https://github.com/MagicSolutions/django-orderedmodel.git@0.1.5#egg=django-orderedmodel-0.1.5',
